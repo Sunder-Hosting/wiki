@@ -2,7 +2,7 @@
 title: База знаний
 description: База знаний Sunder
 published: true
-date: 2025-02-02T21:16:50.512Z
+date: 2025-02-02T21:27:12.404Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-02T20:24:37.656Z
