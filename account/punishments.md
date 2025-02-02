@@ -2,7 +2,7 @@
 title: Наказания
 description: Описания наказаний, как их оспорить
 published: true
-date: 2025-02-02T23:22:53.630Z
+date: 2025-02-02T23:22:56.748Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-02T21:29:25.899Z
