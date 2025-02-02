@@ -2,7 +2,7 @@
 title: Домен
 description: Домен 3-го уровня
 published: true
-date: 2025-02-02T23:06:41.902Z
+date: 2025-02-02T23:07:50.759Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-02T22:56:16.716Z
@@ -31,6 +31,8 @@ dateCreated: 2025-02-02T22:56:16.716Z
 {.is-warning}
 
 ![subdomains-3.png](/images/subdomains-3.png)
+
+После оформления заказа он будет сразу же доступен.
 
 ## Настройка сервера
 
